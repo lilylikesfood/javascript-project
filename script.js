@@ -26,4 +26,3 @@ $("#start").addEventListener("mousedown", press);
 $("#reset").addEventListener("mousedown", press);
 $("#start").addEventListener("mouseup", release);
 $("#reset").addEventListener("mouseup", release);
-// nhhuhuyhi
